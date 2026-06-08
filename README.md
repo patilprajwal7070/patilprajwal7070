@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Prajwal Patil
 
-<!--
-**patilprajwal7070/patilprajwal7070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Aspiring Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Graduate (2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building cloud and DevOps projects using AWS, Terraform, Docker, Kubernetes, and Jenkins
+
+🌱 Currently learning Kubernetes Administration and Advanced Terraform
+
+---
+
+## 🛠️ Tech Stack
+
+☁️ AWS
+
+🐧 Linux
+
+🐳 Docker
+
+☸️ Kubernetes
+
+🏗️ Terraform
+
+🚀 Jenkins
+
+🔧 Git & GitHub
+
+---
+
+📌 Featured Projects
+
+🚀 AWS EKS CI/CD Pipeline
+Jenkins + Docker + Kubernetes + AWS EKS
+
+🏗️ Terraform S3 Static Website Hosting
+Infrastructure as Code using Terraform and AWS S3
+
+---
+
+🌱 Currently Deep Diving Into
+
+🐧 Linux Administration
+
+☸️ Kubernetes Administration
+
+☁️ AWS Cloud Architecture
+
+🏗️ Terraform & Infrastructure as Code
+
+🚀 CI/CD Pipelines & DevOps Practices
+
+📊 Monitoring, Logging & Observability
+
+---
+
+📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/prajwal-patil-405a60254/
+
+Email: patilprajwal930@gmail.com
